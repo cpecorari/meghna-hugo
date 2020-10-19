@@ -1,0 +1,9 @@
+.hero-area .video-background {
+    position: absolute;
+    width: 100%;
+    pointer-events: none;
+}
+
+.hero-area .video-background::-webkit-media-controls-start-playback-button {
+    display: none;
+}

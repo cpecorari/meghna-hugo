@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
-  color: #737f8a;
+  background-color: #384852;
+  color: #61747F;
 }
 
 body {
-  background-color: #353b43;
+  background-color: #384852;
   font-family: 'Anaheim', sans-serif;
-  color: #737f8a;
+  color: #61747F;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: 'Quattrocento Sans', sans-serif;
-  color: #afbac4;
+  color:#BBC3C8;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color:#BBC3C8;
 }
 
 /*=================================================================
@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #384852;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #1C2429;
 }
 
 .parallax-section {
@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292f36;
+  background: #1C2429;
 }
 
 .overly {
@@ -402,6 +402,7 @@ a:hover {
   left: 0;
   bottom: 0;
 }
+
 
 /*=================================================================
   Navigation
@@ -547,7 +548,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #1C2429;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: 0.5s all;
@@ -607,7 +608,7 @@ a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color:#BBC3C8;
 }
 
 /*=================================================================
@@ -644,12 +645,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color:#51CB00;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #D2D7DA;
 }
 
 .call-to-action .btn-main {
@@ -773,7 +774,7 @@ a:hover {
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #292f36;
+  background: #1C2429;
 }
 
 .counters-item i {
@@ -804,7 +805,7 @@ a:hover {
 }
 
 .price-title {
-  background-color: #292f36;
+  background-color: #1C2429;
   padding: 30px 0 20px;
 }
 
@@ -841,7 +842,7 @@ a:hover {
 }
 
 .pricing li:nth-child(2n) {
-  background-color: #292f36;
+  background-color: #1C2429;
 }
 
 .pricing li .btn {
@@ -865,7 +866,7 @@ a:hover {
   font-size: 16px;
   padding: 6px 20px;
   font-weight: 700;
-  color: #737f8a;
+  color: #61747F;
   transition: 0.3s all;
 }
 
@@ -1024,7 +1025,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292f36;
+  background-color: #1C2429;
   margin-bottom: 10px;
 }
 
@@ -1131,7 +1132,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color:#BBC3C8;
   font-size: 18px;
 }
 
@@ -1218,12 +1219,12 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292f36;
+  background-color: #1C2429;
   border: 1px solid #4e595f;
 }
 
 .post-block {
-  background-color: #292f36;
+  background-color: #1C2429;
   margin-bottom: 10px;
 }
 
@@ -1459,7 +1460,7 @@ a:hover {
 }
 
 .post-comment {
-  background-color: #292f36;
+  background-color: #1C2429;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1492,13 +1493,13 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color:#BBC3C8;
   font-weight: 500;
   font-size: 18px;
 }
 
 .post-time {
-  color: #737f8a;
+  color: #61747F;
 }
 
 input#e-mail,
@@ -2270,7 +2271,7 @@ figcaption {
 }
 
 #select-language {
-  background: #353b43;
+  background: #384852;
   color: #ffffff;
   border: 0;
 }
